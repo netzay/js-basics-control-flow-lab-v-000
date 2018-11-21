@@ -19,7 +19,7 @@ return city == 'NYC' ? ('Ok, sounds good.') : ('No go.');
 function switchOnCharmFromTip(response){
   switch (response){
     case 'generous';
-    return
+    return "Thank you so much.";
     
   }
   
